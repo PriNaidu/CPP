@@ -1,6 +1,16 @@
 #include<iostream>
 using namespace std;
 int main() {
-    cout<<"Hello  World";
+
+    cout << "Size of char : " << sizeof(char) << endl;
+    cout << "Size of int : " << sizeof(int) << endl;
  
+    cout << "Size of long : " << sizeof(long) << endl;
+    cout << "Size of float : " << sizeof(float) << endl;
+ 
+    cout << "Size of double : " << sizeof(double) << endl;
+    cout << "Size of void : " << sizeof(void) << endl;
+    cout << "Size of wide character :" << sizeof(wchar_t) << endl;
+
+    return 0;
 }
