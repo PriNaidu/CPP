@@ -32,6 +32,8 @@ int main()
     */
    int a ='a';
    cout<<a<<endl;
-
+   //Typecasting
+   char ch=98;
+   cout<<ch<<endl;
     return 0;
 }
