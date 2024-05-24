@@ -23,5 +23,12 @@ int main()
 
     bool vl = false;
     cout<<vl<< endl;
+
+    float f= 1.2;
+    cout<<f<<endl;
+
+    int size = sizeof(a);
+    cout<<"Size of a is:" << size<<endl;
+
     return 0;
 }
