@@ -14,7 +14,7 @@ int main()
 
     SI = (p * r * t) / 100;
     cout << "Simple Interest= " << SI << endl;
-
+`
     return 0;
 }
 
