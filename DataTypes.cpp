@@ -13,7 +13,7 @@ int main()
     // cout << "Size of void : " << sizeof(void) << endl;
     // cout << "Size of wide character :" << sizeof(wchar_t) << endl;
 
-    int a = 123;
+  /*  int a = 123;
     cout << a << endl;
     char b = 'v';
     cout << b << endl;
@@ -27,8 +27,11 @@ int main()
     float f= 1.2;
     cout<<f<<endl;
 
-    int size = sizeof(a);
+    int size = sizeof(a); 
     cout<<"Size of a is:" << size<<endl;
+    */
+   int a ='a';
+   cout<<a<<endl;
 
     return 0;
 }
