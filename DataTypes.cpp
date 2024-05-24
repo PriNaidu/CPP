@@ -30,13 +30,19 @@ int main()
     int size = sizeof(a); 
     cout<<"Size of a is:" << size<<endl;
     */
-   int a ='a';
-   cout<<a<<endl;
-   //Typecasting
-   char ch=98;
-   cout<<ch<<endl;
+//    int a ='a';
+//    cout<<a<<endl;
+//    //Typecasting
+//    char ch=98;
+//    cout<<ch<<endl;
 
-   char ch1 = 123456;
-   cout<<ch1<<endl;
+//    char ch1 = 123456; 
+//    cout<<ch1<<endl;
+
+//    unsigned int b = -112;
+//    cout<<b<<endl;
+
+float a = 2.0/5;
+cout<<a<<endl;
     return 0;
 }
